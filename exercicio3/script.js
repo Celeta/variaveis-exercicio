@@ -42,3 +42,5 @@ console.log(typeof cargoAtual)
 console.log(typeof salario)
 console.log(typeof comissao)
 console.log(typeof anoAdmissao)
+
+
