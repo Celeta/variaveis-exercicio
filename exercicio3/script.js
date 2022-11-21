@@ -43,4 +43,4 @@ console.log(typeof salario)
 console.log(typeof comissao)
 console.log(typeof anoAdmissao)
 
-
+console.log("O funcionário se chama",nomeSobrenome, "nascido em", dataDeNascimento, "residente em", endereco, "portador do CPF",documentoCpf, "nível escolar", escolaridade, "tem", quantidadeFilhos, quantidadeFilhos,".","Atualmente está no cargo",cargoAtual,"recebe o salário de",salario, "com comissão de",comissao,"foi admitido em",anoAdmissao,".")
